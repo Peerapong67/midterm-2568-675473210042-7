@@ -52,7 +52,7 @@ Layered Architecture (3-tier)
 
 ```bash
 # 1. Clone repository
-git clone [your-repo-url]
+git clone https://github.com/Peerapong67/midterm-2568-675473210042-7.git
 
 # 2. Install dependencies
 npm install
